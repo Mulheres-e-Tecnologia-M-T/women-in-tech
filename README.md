@@ -10,6 +10,7 @@ O Women in Tech é um aplicativo mobile que visa celebrar e inspirar mulheres na
 
 Este projeto também é um 💫 Desafio de 7 dias 💫 , onde você poderá desenvolver o aplicativo Women in Tech seguindo as dicas diárias que serão disponibilizadas no Figma.
 A escolha da tecnologia que será utilizada será somente sua. 😉
+Se tem dúvidas de como escolher, conheça um pouco mais sobre cada tech mobile que preparamos nesta [publicação](https://www.linkedin.com/posts/mulheres-e-tecnologia_desenvolvimento-mobile-activity-7163517233372114944-cIZd?utm_source=share&utm_medium=member_android)
 
 ### 📲💻 Para iniciar os trabalhos:
 
